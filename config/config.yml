@@ -1,0 +1,4 @@
+# Configuration used in the automation tests
+celo_staging_webaddress: https://stagingapp.celohealth.com/
+login_email: qa.candidate+01@celohealth.com
+login_password: 3tQp+,/Q
